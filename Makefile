@@ -8,7 +8,7 @@ clean:
 	# Clean all containers environment.
 	sh ./scripts/clean.sh
 
-heroku:
+heroku_deploy:
 	# Deploy app in Heroku.
 	sh ./scripts/heroku_deploy.sh
 
