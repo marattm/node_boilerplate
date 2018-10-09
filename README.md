@@ -1,5 +1,5 @@
 # node_boilerplate
-Simple node boilerplate
+Simple node express boilerplate
 
 # Getting started
 - Deploy app in the localhost with the development environment. 
