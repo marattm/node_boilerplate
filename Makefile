@@ -5,13 +5,13 @@ deploy:
 	sh ./scripts/deploy.sh
 
 clean:
-	# Clean all containers environement.
+	# Clean all containers environment.
 	sh ./scripts/clean.sh
 
 heroku:
 	# Deploy app in Heroku.
 	sh ./scripts/heroku_deploy.sh
 
-setup:
-	# Deploy app in Heroku.
+setup_heroku:
+	# Setup Heroku environment.
 	sh ./scripts/heroku_setup.sh
